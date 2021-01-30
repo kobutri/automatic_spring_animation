@@ -2,7 +2,7 @@ name: automatic_spring_animation
 description: this package animates widgets with springs when their location changes
 version: 0.0.1
 author: Tristan Kobusch
-homepage:
+repository: https://github.com/kobutri/automatic_spring_animation.git
 
 environment:
   sdk: '>=2.12.0-0 <3.0.0'
